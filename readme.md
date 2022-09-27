@@ -5,7 +5,7 @@ VirtualLife is a broad and varied life simulator, featuring decisions, items, ac
 TBC
 
 # Information
-Current Version: N/A
-Developed by @defineprogramming
-Pushed to main at: N/A
-Released at: N/A
+###### Current Version: N/A
+###### Developed by @defineprogramming
+###### Pushed to main at: N/A
+###### Released at: N/A
